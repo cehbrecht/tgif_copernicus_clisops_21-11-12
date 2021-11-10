@@ -19,7 +19,7 @@ dependencies:
  - pyproj>=2.5
  - requests>=2.0
  - roocs-utils>=0.5.0
- #- clisops>=0.7.0
+ - clisops>=0.7.0
  - pygeos>=0.8
  - jupyterlab
  - cartopy
@@ -27,6 +27,6 @@ dependencies:
  - GitPython
  - pip:
 #     - cf-xarray @ git+https://github.com/xarray-contrib/cf-xarray/@main#egg=cf-xarray
-     - clisops @ git+https://github.com/roocs/clisops/@regrid-main-martin#egg=clisops
+#     - clisops @ git+https://github.com/roocs/clisops/@regrid-main-martin#egg=clisops
 #     - roocs-utils @ git+https://github.com/roocs/roocs-utils.git@master#egg=roocs-utils
      - psy-maps
